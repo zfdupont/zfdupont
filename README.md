@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact: **there are exactly 10! seconds in six weeks**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
