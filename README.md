@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zack Dupont</h1>
 <h3 align="center">Black Software Engineer passionate about backend development and cutting-edge tech</h3>
 
+<div align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zfdupont&title=-Stars,-Reviews,-Issues&theme=gruvbox&row=2&column=3" alt="zfdupont" /></a></div>
+
 - 🔭 I’m currently working on [an Auction House for Legos](https://github.com/bricksandbids)
 
 - 🌱 I’m currently learning **Apache Kafka, Message Queues, Database Theory**
