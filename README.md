@@ -15,6 +15,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Definitive WNBA Rookie Ranking](http://zfdupont.com/blog/wnba-rookie-ranking)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
