@@ -15,6 +15,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Redistricting 101: Huskies, ReCom, and the Fight Against Gerrymandering](http://zfdupont.com/blog/huskies-redistricting)
 - [The Definitive WNBA Rookie Ranking](http://zfdupont.com/blog/wnba-rookie-ranking)
 <!-- BLOG-POST-LIST:END -->
 
